@@ -1,0 +1,10 @@
+.container-flex {
+    display: flex;
+}
+.menu {
+    width: 20%;
+}
+.contenido {
+    width: 80%;
+    padding-left: 20px;
+}
